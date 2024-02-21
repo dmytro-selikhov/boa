@@ -1,2 +1,2 @@
 # boa
-book_of_anksunamun
+book_of_anksunamun_email
